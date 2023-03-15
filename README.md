@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Real Estate Projects**
 
-- 💬 Ask me about **React | Next.js **
+- 💬 Ask me about ** JavaScript | React.js | Next.js **
 
 - 📫 How to reach me **bsiddiqui@students.uit.edu**
 
