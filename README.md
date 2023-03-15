@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Real Estate Tokenization.**
 
-- 🌱 I’m currently learning **Node.js | React | Next.js | Blockchain**
+- 🌱 I’m currently learning ** React.js | Next.js | Blockchain**
 
 - 👯 I’m looking to collaborate on **Blockchain Real Estate Projects**
 
-- 💬 Ask me about **React | Django**
+- 💬 Ask me about **React | Next.js **
 
 - 📫 How to reach me **bsiddiqui@students.uit.edu**
 
