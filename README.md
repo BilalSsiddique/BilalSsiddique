@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Real Estate Tokenization.**
 
-- 🌱 I’m currently learning ** React.js | Next.js | Blockchain**
+- 🌱 I’m currently learning ** Next.js | Blockchain**
 
 - 👯 I’m looking to collaborate on **Blockchain Real Estate Projects**
 
