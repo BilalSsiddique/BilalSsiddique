@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/bilalsiddique_" target="blank"><img src="https://img.shields.io/twitter/follow/bilalsiddique_?logo=twitter&style=for-the-badge" alt="bilalsiddique_" /></a> </p>
 
-- 🔭 I’m currently working on **Real Estate Tokenization.**
+- 🔭 I’m currently working on my **FYP.**
 
 - 🌱 I’m currently learning ** Next.js | Blockchain**
 
-- 👯 I’m looking to collaborate on **Blockchain Real Estate Projects**
+- 👯 I’m looking to collaborate on **Next.js | React.js | Full-Stack Projects**
 
 - 💬 Ask me about ** JavaScript | React.js | Next.js **
 
