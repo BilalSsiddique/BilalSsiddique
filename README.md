@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/bilalsiddique_" target="blank"><img src="https://img.shields.io/twitter/follow/bilalsiddique_?logo=twitter&style=for-the-badge" alt="bilalsiddique_" /></a> </p>
 
-- 🔭 I’m currently working on my **FYP.**
+- 🔭 I’m currently looking for Software Engineer React.js/Next.js Internship.**
 
-- 🌱 I’m currently learning ** Next.js | Blockchain**
+- 🌱 I’m currently learning ** Next.js/React.js | Cloud Data Engineering**
 
 - 👯 I’m looking to collaborate on **Next.js | React.js | Full-Stack Projects**
 
