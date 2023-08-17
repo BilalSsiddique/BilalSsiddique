@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bilal Siddique</h1>
-<h3 align="center">An Aspiring Full-stack & Cloud Engineer.</h3>
+<h3 align="center">An Aspiring Full-stack & Cloud Data Engineer.</h3>
 
 <p align="left"> <a href="https://twitter.com/bilalsiddique_" target="blank"><img src="https://img.shields.io/twitter/follow/bilalsiddique_?logo=twitter&style=for-the-badge" alt="bilalsiddique_" /></a> </p>
 
-- 🔭 I’m currently looking for Software Engineer React.js/Next.js Internship.**
+- 🔭 I’m currently looking for Software Engineer Python/Django Internship.**
 
 - 🌱 I’m currently learning ** Next.js/React.js | Cloud Data Engineering**
 
-- 👯 I’m looking to collaborate on **Next.js | React.js | Full-Stack Projects**
+- 👯 I’m looking to collaborate on **Python/Django | React.js/Next.js | Full-Stack Projects**
 
-- 💬 Ask me about ** JavaScript | React.js | Next.js **
+- 💬 Ask me about ** Python/JavaScript | React.js | Next.js **
 
 - 📫 How to reach me **bsiddiqui@students.uit.edu**
 
