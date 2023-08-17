@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for Software Engineer Python/Django Internship.**
 
-- 🌱 I’m currently learning ** Next.js/React.js | Cloud Data Engineering**
+- 🌱 I’m currently learning ** Python/Django | Cloud Data Engineering**
 
 - 👯 I’m looking to collaborate on **Python/Django | React.js/Next.js | Full-Stack Projects**
 
