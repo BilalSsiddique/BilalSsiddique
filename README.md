@@ -3,15 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/bilalsiddique_" target="blank"><img src="https://img.shields.io/twitter/follow/bilalsiddique_?logo=twitter&style=for-the-badge" alt="bilalsiddique_" /></a> </p>
 
-- 🔭 I’m currently looking for Software Engineer Python/Django Internship.**
 
-- 🌱 I’m currently learning ** Python/Django | Cloud Data Engineering**
+- 🌱 I’m currently learning ** Custom Shopify Development using Next.js/Remix - Hydrogen | Cloud Engineering**
 
 - 👯 I’m looking to collaborate on **Python/Django | React.js/Next.js | Full-Stack Projects**
 
 - 💬 Ask me about ** Python/JavaScript | React.js | Next.js **
 
-- 📫 How to reach me **bsiddiqui@students.uit.edu**
+- 📫 How to reach me **bsiddiqui@alumni.uit.edu**
 
 - ⚡ Fun fact **I am an Ambivert.**
 
