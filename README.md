@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      🌱<strong> I’m currently learning </strong>  Nest.js | microservices | gRPC | (Docker & Kubernetes)  <br><br>👯 <strong> I’m looking to collaborate on </strong> Python/Django/Fast API | React.js/Next.js | Full-Stack Projects <br><br>💬 <strong> Ask me about </strong> Python/JavaScript | React.js | Next.js <br><br>📫 <strong> How to reach me </strong> <a href='mailto:bsiddiqui@alumni.uit.edu'> bilalsiddique1997@gmail.com </a><br><br>⚡ <strong> Fun fact </strong> I am an Ambivert.<br> <br>
+      🌱<strong> I’m currently learning </strong>  Terraform | AWS EKS | (Docker & Kubernetes)  <br><br>👯 <strong> I’m looking to collaborate on </strong> Python/Django/Fast API | React.js/Next.js | Full-Stack Projects <br><br>💬 <strong> Ask me about </strong> Python/JavaScript | React.js | Next.js <br><br>📫 <strong> How to reach me </strong> <a href='mailto:bsiddiqui@alumni.uit.edu'> bilalsiddique1997@gmail.com </a><br><br>⚡ <strong> Fun fact </strong> I am an Ambivert.<br> <br>
       <strong> 💼 Portfolio: </strong> <a href='https://bilalsiddique.tech/'>  https://bilalsiddique.tech/ </a>
     </td>
     <td>
