@@ -4,8 +4,8 @@
 <table>
   <tr>
     <td>
-      🌱<strong> I’m currently learning </strong>  Terraform | AWS EKS | (Docker & Kubernetes)  <br><br>👯 <strong> I’m looking to collaborate on </strong> Python/Django/Fast API | React.js/Next.js | Full-Stack Projects <br><br>💬 <strong> Ask me about </strong> Python/JavaScript | React.js | Next.js <br><br>📫 <strong> How to reach me </strong> <a href='mailto:bsiddiqui@alumni.uit.edu'> bilalsiddique1997@gmail.com </a><br><br>⚡ <strong> Fun fact </strong> I am an Ambivert.<br> <br>
-      <strong> 💼 Portfolio: </strong> <a href='https://bilalsiddique.tech/'>  https://bilalsiddique.tech/ </a>
+      🌱<strong> I’m currently learning </strong>  Terraform | AWS EKS | (Docker & Kubernetes) | AWS ECS   <br><br>👯 <strong> I’m looking to collaborate on </strong> Python/Django/Fast API | React.js/Next.js | Full-Stack Projects <br><br>💬 <strong> Ask me about </strong> Python/JavaScript | React.js | Next.js <br><br>📫 <strong> How to reach me </strong> <a href='mailto:bsiddiqui@alumni.uit.edu'> bilalsiddique1997@gmail.com </a><br><br>⚡ <strong> Fun fact </strong> I am an Ambivert.<br> <br>
+      <strong> 💼 Portfolio: </strong> <a href='https://bilal-siddique.vercel.app/'>  https://bilalsiddique.tech/ </a>
     </td>
     <td>
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style='object-fit:cover' alt="Programmer GIF" >
